@@ -92,3 +92,7 @@ form button {
   top: 0;
 }
 
+.address {
+  list-style: none;
+  margin-left: -1em;
+}
